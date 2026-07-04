@@ -1,6 +1,6 @@
 <h1 style="font-style='italic'">Shiva Hiremath</h1>
 
-<h5>Student at KLS VDIT College, Haliyal</h5>
+<h5>Student at KLS VDIT College, Haliyal.</h5>
 
 <h3>ABOUT :</h3>
 Namaste,<br>        
