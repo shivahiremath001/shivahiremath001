@@ -3,7 +3,7 @@
 <h5>Student at KLS VDIT College, Haliyal.</h5>
 
 <h3>ABOUT :</h3>
-Namaste,<br>        
+Hi,<br>        
    My name is Shiva, I am an Aspiring Full Stack Web Developer, who loves building websites.<br>
    Connect with me on <a href = "https://www.linkedin.com/in/shiva-hiremath-4a033a292">LinkedIn</a>
 
