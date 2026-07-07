@@ -1,4 +1,4 @@
-<h1 style="font-style='italic'">Shiva Hiremath</h1>
+<h1 style="font-style='italic'">Shiva G. Hiremath</h1>
 
 <h5>Student at KLS VDIT College, Haliyal.</h5>
 
