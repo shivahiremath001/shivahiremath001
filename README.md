@@ -16,4 +16,5 @@ Hi,<br>
 - SQL & SQLite
 - Git & Github
 - C & C++
+- java (basics)
 
